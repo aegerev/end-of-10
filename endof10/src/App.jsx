@@ -7,6 +7,7 @@ function App() {
   return (
       <div>
         <h1>Ten Reasons To Switch To Linux Before/On/After October 14, 2025</h1>
+        <h2><a href='https://github.com/aegerev/end-of-10'>View Github</a></h2>
           <div className='appContainer'>
             {reasons.map((reason) => (
               <ReasonCard
