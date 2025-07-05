@@ -2,10 +2,10 @@ import React from 'react'
 
 export const ReasonCard = (props) => {
     return(
-        <div classname = "reasonCard">
-            <div classname = "title">{props.title}</div> 
+        <div className = "reasonCard">
+            <div className = "title">{props.title}</div> 
 
-            <div classname="authorDate">
+            <div className="authorDate">
                 {props.author}
                 {'  '} {'  '}
                 {props.date}
