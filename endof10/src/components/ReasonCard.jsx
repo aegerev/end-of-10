@@ -7,7 +7,7 @@ export const ReasonCard = (props) => {
 
             <div className="authorDate">
                 {props.author}
-                {'  '} {'  '}
+                {', '}
                 {props.date}
             </div>
 

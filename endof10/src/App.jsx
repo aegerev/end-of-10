@@ -17,7 +17,13 @@ function App() {
                 description={reason.description}
                 />
             ))}
+            <p>Installing a new operating system may sound difficult, but the community behind the "End Of 10" is here to help! In towns and cities around the globe, there are people and places ready to lend you a hand or even install Linux for you. Many more helper groups get added every day. <br/> <br/>
+
+            Find help near you at <a href='https://endof10.org/'>endof10.org</a>
+            
+            </p>
           </div>
+
         </div>
   )
 }
