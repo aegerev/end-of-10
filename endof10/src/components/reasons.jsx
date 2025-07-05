@@ -69,6 +69,5 @@ export const reasons = [
 		"author": "zzz143@aol.com",
 		"description": "When you purchase and boot up a new copy of Windows, it comes loaded with bloatware. These are programs and apps that you don’t want or need. They can drain processing speed. On Linux, all these extra programs aren’t even added in the first place. Most distros come with only the essentials, and you can choose to go even more minimal when you install Linux."
     }
-
     
 ]
